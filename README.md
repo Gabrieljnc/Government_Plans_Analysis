@@ -10,3 +10,6 @@ Bibliotecas utilizadas: pdfplumber, nltk, wordcloud, plotly.
 by each political party in its government plan, made available for the election for the presidency of Brazil in 2023.The bar graph and the word cloud were used as a form of visualization.
 
 Libraries used: pdfplumber, nltk, wordcloud, plotly.
+
+
+Link to access the project: https://gabrieljnc-government-plans-analysis-app-ax3jhn.streamlitapp.com/

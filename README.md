@@ -5,7 +5,7 @@
 
 Bibliotecas utilizadas: pdfplumber, nltk, wordcloud, plotly.
 
-🇺🇸 TThe project's main objective is to create a program that collects the most frequent words in the government plans of presidential candidates and transforms them into visualizations, following the entire pipeline of execution of an NLP: Extraction, Cleaning, Normalization, Transformation, Modeling and Deployment. In addition, the project was implemented in Streamlit, a framework for publishing on the web.
+🇺🇸 The project's main objective is to create a program that collects the most frequent words in the government plans of presidential candidates and transforms them into visualizations, following the entire pipeline of execution of an NLP: Extraction, Cleaning, Normalization, Transformation, Modeling and Deployment. In addition, the project was implemented in Streamlit, a framework for publishing on the web.
 
 Libraries used: pdfplumber, nltk, wordcloud, plotly.
 
